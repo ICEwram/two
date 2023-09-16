@@ -1,0 +1,13 @@
+.main{
+	display: flex;
+	margin: auto;
+	width: 500px;
+	height: 500px;
+	background-color: beige;
+}
+.child{
+	margin: auto;
+	width: 400px;
+	height: 400px;
+	background-color: aquamarine;
+}

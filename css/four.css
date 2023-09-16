@@ -1,0 +1,41 @@
+.main{
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: auto;
+	width: 500px;
+	height: 500px;
+	background-color: beige;
+}
+.child1{
+	margin: auto;
+	width: 400px;
+	height: 100px;
+	background-color: blue;
+}
+.child2{
+	margin-left: 50px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 100px;
+	height: 250px;
+	background-color: aqua;
+	float: left;
+}
+.child3{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 300px;
+	height: 250px;
+	background-color: aquamarine;
+	float: left;
+}
+.child4{
+	margin: auto;
+	width: 400px;
+	height: 50px;
+	background-color: blue;
+	clear: left; 
+}

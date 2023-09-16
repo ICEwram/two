@@ -1,0 +1,63 @@
+.main{
+	margin: auto;
+	padding-top: 50px;
+	padding-left: auto;
+	width: 500px;
+	height: 500px;
+	background-color: beige;
+}
+.child1{
+	margin-left: 50px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 400px;
+	height: 100px;
+	background-color: blue;
+}
+.child2{
+	margin-left: 50px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 400px;
+	height: 50px;
+	background-color: aqua;
+}
+.child3{
+	margin-left: 50px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 133px;
+	height: 200px;
+	background-color: aquamarine;
+	float: left;
+}
+.child4{
+	margin: 0;
+	width: 133px;
+	height: 200px;
+	background-color: blue;
+	float: left; 
+}
+.child5{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 133px;
+	height: 200px;
+	background-color: aquamarine;
+	float: left;
+}
+.child6{
+	margin-left: 50px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 400px;
+	height: 50px;
+	background-color: blue;
+	clear: left; 
+}
